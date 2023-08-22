@@ -1,0 +1,13 @@
+step 1 github create new repository
+step 2 install git 
+step 3 git --version
+step 4 git clone repo url
+step 5 # Stage changes
+git add .
+
+# Commit changes with a descriptive message
+git commit -m "Implemented new feature XYZ"
+
+# Push changes to remote repository (optional)
+git push origin main
+
